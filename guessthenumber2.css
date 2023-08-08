@@ -1,0 +1,15 @@
+body{
+    margin-top: 200px;
+    margin-bottom: 300px;
+    text-align: center;
+    background-image: url('https://images2.alphacoders.com/504/504108.jpg');
+    background-repeat: no-repeat;
+}
+input[type=number]:hover{
+    background-color: pink;
+    transform: scale(1,2);
+}
+button:hover{
+    background-color: skyblue;
+    transform: scale(1,2);
+}
